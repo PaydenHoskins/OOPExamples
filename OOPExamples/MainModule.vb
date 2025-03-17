@@ -3,7 +3,6 @@
     Sub Main()
         'doSomethingInMainModule()
         doSomethingInSecondModule()
-
     End Sub
 
     Sub doSomethingInMainModule()
