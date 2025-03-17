@@ -1,7 +1,7 @@
 ﻿Module MainModule
 
     Sub Main()
-
+        doSomethingInMainModule()
     End Sub
 
     Sub doSomethingInMainModule()
