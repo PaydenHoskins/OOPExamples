@@ -8,6 +8,9 @@
 
     End Sub
 
+    ''' <summary>
+    ''' Show a message box from within the main module.
+    ''' </summary>
     Sub doSomethingInMainModule()
         MsgBox("Hello from the MainModule!")
     End Sub
