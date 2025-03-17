@@ -1,7 +1,9 @@
 ﻿Module MainModule
 
     Sub Main()
-        doSomethingInMainModule()
+        'doSomethingInMainModule()
+        doSomethingInSecondModule()
+
     End Sub
 
     Sub doSomethingInMainModule()
