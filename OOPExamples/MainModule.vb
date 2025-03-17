@@ -3,8 +3,14 @@
     Sub Main()
         'doSomethingInMainModule()
         'doSomethingInSecondModule()
+        'MsgBox($"{ExampleClass.sumOf(4, 3)}")
 
-        MsgBox($"{ExampleClass.sumOf(4, 3)}")
+        Dim jimmy As New Animal
+        Dim bob As New Animal
+
+        jimmy.move()
+
+        bob.move()
 
     End Sub
 
