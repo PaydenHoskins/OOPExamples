@@ -2,7 +2,10 @@
 
     Sub Main()
         'doSomethingInMainModule()
-        doSomethingInSecondModule()
+        'doSomethingInSecondModule()
+
+        MsgBox($"{ExampleClass.sumOf(4, 3)}")
+
     End Sub
 
     Sub doSomethingInMainModule()
